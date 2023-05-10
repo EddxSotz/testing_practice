@@ -1,0 +1,22 @@
+{
+  "name": "testing_practice",
+  "version": "1.0.0",
+  "description": "testing practice with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EddxSotz/testing_practice.git"
+  },
+  "author": "EddxSotz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EddxSotz/testing_practice/issues"
+  },
+  "homepage": "https://github.com/EddxSotz/testing_practice#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
